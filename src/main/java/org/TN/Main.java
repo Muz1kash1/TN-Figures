@@ -2,7 +2,6 @@ package org.TN;
 
 
 import org.TN.figures.Ellipse;
-import org.TN.figures.Rectangle;
 
 
 public class Main {
